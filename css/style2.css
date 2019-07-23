@@ -1,0 +1,11 @@
+*{
+  /* border: 5px solid darkred; */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  border: 5px solid darkred;
+  
+}
